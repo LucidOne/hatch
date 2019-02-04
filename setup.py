@@ -79,6 +79,6 @@ setup(
         ),
     },
     package_data={
-        'hatch': ['templates/CHANGELOG.md','templates/CHANGELOG.rst'],
+        'hatch': ['templates/dot.gitignore', 'templates/CHANGELOG.md','templates/CHANGELOG.rst'],
     },
 )
